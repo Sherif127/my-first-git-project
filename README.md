@@ -94,7 +94,7 @@ git push origin main
   python calculator.py
   ```
 
-  ![python calculator run]<img width="570" height="133" alt="Image" src="https://github.com/user-attachments/assets/880ee2af-9870-42fc-b0e7-956ee66245d4" />
+  <img width="570" height="133" alt="Image" src="https://github.com/user-attachments/assets/880ee2af-9870-42fc-b0e7-956ee66245d4" />
 
 ---
 
