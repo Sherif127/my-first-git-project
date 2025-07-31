@@ -132,6 +132,6 @@ git push origin main
 
 ## Final Version of `calculator.py`
 
-(https://github.com/Sherif127/my-first-git-project/blob/cb55b2ec090b29af011f122d8fdbb3aa0a241738/calculator.py)
+[calculator.py](https://github.com/Sherif127/my-first-git-project/blob/cb55b2ec090b29af011f122d8fdbb3aa0a241738/calculator.py)
 
 ---
