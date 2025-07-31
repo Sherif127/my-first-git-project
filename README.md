@@ -44,8 +44,8 @@ git push origin main
 
 - Used `git log --oneline` and `git diff` to locate the commit with the bug.
 
-  ![git log]<img width="838" height="127" alt="Image" src="https://github.com/user-attachments/assets/00d2e0d6-06eb-4322-96e1-bb78ebdb9383" />
-  ![git diff]<img width="679" height="350" alt="Image" src="https://github.com/user-attachments/assets/e79e27de-9802-48f7-a6dc-2bdc50cdc5c3" />
+  <img width="838" height="127" alt="Image" src="https://github.com/user-attachments/assets/00d2e0d6-06eb-4322-96e1-bb78ebdb9383" />
+  <img width="679" height="350" alt="Image" src="https://github.com/user-attachments/assets/e79e27de-9802-48f7-a6dc-2bdc50cdc5c3" />
 
 ---
 
@@ -57,8 +57,8 @@ git push origin main
   git stash
   ```
 
-  ![git status]<img width="899" height="202" alt="Image" src="https://github.com/user-attachments/assets/74ad8cd6-2f08-4f3f-b605-feea2c83fa00" />
-  ![git stash]<img width="1061" height="58" alt="Image" src="https://github.com/user-attachments/assets/fad307e4-e29c-4cb7-b8ab-d839344255c6" />
+  <img width="899" height="202" alt="Image" src="https://github.com/user-attachments/assets/74ad8cd6-2f08-4f3f-b605-feea2c83fa00" />
+  <img width="1061" height="58" alt="Image" src="https://github.com/user-attachments/assets/fad307e4-e29c-4cb7-b8ab-d839344255c6" />
 
 ---
 
@@ -70,8 +70,8 @@ git push origin main
   git revert <hash-of-buggy-commit>
   ```
 
-  ![git revert]<img width="1186" height="486" alt="Image" src="https://github.com/user-attachments/assets/002fab0c-2252-45f9-85a6-7081f9128503" />
-  ![git revert 2]<img width="863" height="107" alt="Image" src="https://github.com/user-attachments/assets/0c139f48-19ca-4e4d-a606-074a9677b624" />
+  <img width="1186" height="486" alt="Image" src="https://github.com/user-attachments/assets/002fab0c-2252-45f9-85a6-7081f9128503" />
+  <img width="863" height="107" alt="Image" src="https://github.com/user-attachments/assets/0c139f48-19ca-4e4d-a606-074a9677b624" />
 ---
 
 ### Step 4: Restore Stashed Work
@@ -82,7 +82,7 @@ git push origin main
   git stash pop
   ```
 
-  ![git stash pop]<img width="858" height="250" alt="Image" src="https://github.com/user-attachments/assets/edc48edc-3927-487b-8982-b8c5a71eb970" />
+  <img width="858" height="250" alt="Image" src="https://github.com/user-attachments/assets/edc48edc-3927-487b-8982-b8c5a71eb970" />
 
 ---
 
